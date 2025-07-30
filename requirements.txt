@@ -1,0 +1,20 @@
+# Bulk SMS Broadcasting Application Dependencies
+
+# Web Framework
+flask==2.3.3
+werkzeug==2.3.7
+
+# Database
+flask-sqlalchemy==2.5.1
+sqlalchemy==1.4.49
+
+# SMS API
+africastalking==1.2.5
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Development & Testing
+pytest==7.4.2
+flask-testing==0.8.1
